@@ -1,0 +1,6 @@
+call initialize24 2
+call math 3
+function math 1
+return
+function initialize24 0
+return

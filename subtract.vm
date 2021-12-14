@@ -1,0 +1,6 @@
+push local 2
+push local 5
+add
+push static 6
+push static 8
+add
